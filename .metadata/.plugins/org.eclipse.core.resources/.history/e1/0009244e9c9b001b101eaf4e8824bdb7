@@ -1,0 +1,26 @@
+package reflection;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+
+
+public class ReflectionTest {
+	@Test
+	void test1() throws Exception {
+		Class< Person> classes = Person.class;
+		System.out.println(classes);
+		
+		Person person = new Person();
+		Class<? extends Person> classes2 = person.getClass();
+		System.err.println(classes2);
+		
+		Class<?> forName = Class.forName("reflection.Person");
+		System.out.println(forName);
+		
+		System.out.println(classes == classes2);
+		System.out.println(classes == forName);
+		
+	}
+}

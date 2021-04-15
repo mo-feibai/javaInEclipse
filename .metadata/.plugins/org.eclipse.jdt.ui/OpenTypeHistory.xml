@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util(Date.class[Date" modifiers="33" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util(HashMap.class[HashMap" modifiers="33" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util(LinkedHashMap.class[LinkedHashMap" modifiers="33" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/src&lt;javacode02{Order.java[Order" modifiers="1" timestamp="1617201017486"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.io(BufferedInputStream.class[BufferedInputStream" modifiers="33" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`jdk.internal.vm.ci=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;jdk.vm.ci.code(SuppressFBWarnings.class[SuppressFBWarnings" modifiers="9728" timestamp="1611094272000"/>
+    <typeInfo handle="=javase/D:\/AdoptOpenJDK\/jdk-11.0.10.9-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(SuppressWarnings.class[SuppressWarnings" modifiers="9729" timestamp="1611094272000"/>
+</typeInfoHistroy>

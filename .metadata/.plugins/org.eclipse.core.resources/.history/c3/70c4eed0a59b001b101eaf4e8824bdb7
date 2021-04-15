@@ -1,0 +1,15 @@
+package reflection;
+
+public class FilledPerson extends Creature<String> implements Comparable<String>,MyInterface{
+
+	@Override
+	public void info() {
+	}
+
+	@Override
+	public int compareTo(String o) {
+		
+		return 0;
+	}
+
+}

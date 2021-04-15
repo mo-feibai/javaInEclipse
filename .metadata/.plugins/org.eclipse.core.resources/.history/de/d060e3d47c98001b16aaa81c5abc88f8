@@ -1,0 +1,20 @@
+package intertProgramming;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class InetAddressTest {
+	public static void main(String[] args) {
+		InetAddress address = null;
+		InetAddress localhost = null;
+		try {
+			address = InetAddress.getByName("localhost");
+			localhost = InetAddress.getLocalHost();
+		} catch (UnknownHostException e) {
+
+			e.printStackTrace();
+		}
+		System.out.println(address);
+		System.out.println(localhost);
+	}
+}

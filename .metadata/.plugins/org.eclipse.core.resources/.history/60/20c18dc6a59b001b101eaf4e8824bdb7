@@ -1,0 +1,5 @@
+package reflection;
+
+public abstract class MyInterface {
+	abstract void info();
+}
