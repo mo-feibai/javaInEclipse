@@ -18,7 +18,7 @@ public class DynamicProxyTest {
 		// 当通过代理类的对象调用方法时，会自动调用被代理类中同名的方法
 		String belief = proxyInstance.getBelief();
 		System.out.println(belief);
-		proxyInstance.eat("麻辣香锅");
+		proxyInstance.eat("麻辣香锅和牛肉");
 		
 		System.out.println("-------------------------------------");
 		ClothFactory proxyInstance2 = (ClothFactory) proxyFactory.getProxyInstance(new XinJiangClothFactory());
