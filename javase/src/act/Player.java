@@ -1,5 +1,8 @@
 package act;
 
+import reflection.compenent.Compenent;
+
+@Compenent
 public class Player extends Person {
 	private String graduatedUniversity;
 	private String masterpiece;

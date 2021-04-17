@@ -2,6 +2,9 @@ package reflection;
 
 import java.io.Serializable;
 
+import reflection.compenent.Compenent;
+
+@Compenent
 public class Person implements Serializable {
 	/**
 	 * 
@@ -39,6 +42,10 @@ public class Person implements Serializable {
 	@Override
 	public String toString() {
 		return "Person [name=" + name + ", age=" + age + "]";
+	}
+
+	public void show() {
+		System.out.println("你好，南京");
 	}
 
 }

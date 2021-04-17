@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ReflectionTest.test2" project="javase" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="reflection.ReflectionTest" time="0.0" displayname="ReflectionTest" uniqueid="[engine:junit-jupiter]/[class:reflection.ReflectionTest]">
-    <testcase name="test2" classname="reflection.ReflectionTest" time="0.0" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:reflection.ReflectionTest]/[method:test2()]"/>
-  </testsuite>
-</testrun>

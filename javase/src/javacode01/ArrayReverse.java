@@ -2,12 +2,15 @@ package javacode01;
 
 import java.util.Arrays;
 
+import reflection.compenent.Compenent;
+
 /**
  * 递归实现数组的反转
  * 
  * @author mofeibai
  *
  */
+@Compenent
 public class ArrayReverse {
 	/**
 	 * 交换数组中两元素的位置
